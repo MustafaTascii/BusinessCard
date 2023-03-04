@@ -32,7 +32,7 @@ export default function Header() {
                     <p className="bCardText"> I am an Import Application Specialist at Alarko Carrier, which is a major heating & cooling products manufacturer in Kocaeli, Turkey.  Also, I am currently learning blockchain systems and software in a Blockchain software boot camp and mostly focus on the FrontEnd side of it and am always looking for new things to learn.</p></div>
                 <div>
                     <h3 className="bCardTextInterests"> Interests</h3>
-                    <p className="bCardText">  Supply Chain | Stocks and cryptocurrencies | AI, Software and Blockchain Enthusiast | Basketballer | Flower Lover | Coin Collector </p>
+                    <p className="bCardText">  Supply Chain | Stocks and Cryptocurrencies | AI, Software and Blockchain Enthusiast | Basketballer | Flower Lover | Coin Collector </p>
 
                 </div>
             </div>

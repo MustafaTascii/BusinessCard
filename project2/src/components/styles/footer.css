@@ -12,6 +12,7 @@
     margin-right: 2.4rem;
     border-radius: 5px;
     cursor: pointer;
+    border: none;
 }
 
 .bCardFooterIcon svg{
